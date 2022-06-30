@@ -4,7 +4,7 @@
 </h2>
       
 <h2 align="center" style=" margin-bottom: 0px;"> I'm Mateus Garcia </h2>
-<h3 align="center" style=" margin-top: 0px;"> and i am a Web Developer Jr and Mobile Developer.</h3>
+<h3 align="center" style=" margin-top: 0px;"> and i am a Web Developer Jr.</h3>
       
 <br>
       
