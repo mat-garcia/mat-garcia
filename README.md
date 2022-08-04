@@ -4,7 +4,7 @@
 </h2>
       
 <h2 align="center" style=" margin-bottom: 0px;"> I'm Mateus Garcia </h2>
-<h3 align="center" style=" margin-top: 0px;"> and i am a Web Developer Jr.</h3>
+<h3 align="center" style=" margin-top: 0px;"> and i am a Web Developer Jr & Mobile Developer.</h3>
       
 <br>
       
@@ -12,7 +12,7 @@
       
 - 🎓 Degree in **Systems Analysis and Development**.
 
-- 💡 I am currently learning **React Native**
+- 💡 I am currently learning **ReactJS with NextJS & React Native**
       
 - ✉️ Reach me on ** mateusgarcia.dev@gmail.com **
       
