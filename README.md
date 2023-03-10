@@ -40,8 +40,8 @@
 #### ⭐ Stats and Languages
       
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-garcia&theme=dark&layout=compact" alt="Statistics" width="420"/> 
-    <img src="https://github-readme-stats-one-rose-40.vercel.app/api/top-langs/?username=mat-garcia&layout=compact&bg_color=0d0023&text_color=D9E0EE&icon_color=7dda0c&title_color=c600ff" alt="Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-garcia&theme=dracula&layout=compact" alt="Statistics" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=mat-garcia&theme=dracula" alt="Languages" height="165" />
 </p>
       
 <br>
