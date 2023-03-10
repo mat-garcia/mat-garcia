@@ -1,5 +1,5 @@
 <h2>
-    <p align="center" style="margin-bottom: 1px;"><img align="center" src="rising.gif" height="250px"></p>
+    <p align="center" style="margin-bottom: 1px;"><img align="center" src="rising.gif" height="200px"></p>
     <p align="center" style="margin-top: 0px;"> <img  src="https://img.shields.io/badge/-Hello%20World!-purple?style=for-the-badge" width="200"/></p>
 </h2>
       
@@ -40,7 +40,7 @@
 #### ⭐ Stats and Languages
       
 <p align="center">
-    <img src="https://github-readme-stats-one-rose-40.vercel.app/api?username=mat-garcia&count_private=true&show_icons=true&bg_color=0d0023&text_color=D9E0EE&icon_color=7dda0c&title_color=c600ff" alt="Statistics" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={mat-garcia}&theme=blue-green" alt="Statistics" width="420"/> 
     <img src="https://github-readme-stats-one-rose-40.vercel.app/api/top-langs/?username=mat-garcia&layout=compact&bg_color=0d0023&text_color=D9E0EE&icon_color=7dda0c&title_color=c600ff" alt="Languages" height="165" />
 </p>
       
