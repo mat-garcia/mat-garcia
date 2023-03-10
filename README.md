@@ -40,8 +40,8 @@
 #### ⭐ Stats and Languages
       
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-garcia&theme=dracula&layout=compact" alt="Statistics" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api?username=mat-garcia&theme=dracula" alt="Languages" height="220" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-garcia&theme=dracula&layout=compact" alt="Statistics" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=mat-garcia&theme=dracula" alt="Languages"  />
 </p>
       
 <br>
