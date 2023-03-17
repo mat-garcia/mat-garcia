@@ -12,7 +12,7 @@
       
 - 🎓 Degree in **Systems Analysis and Development**.
 
-- 💡 I am currently learning **ReactJS with NextJS & React Native**
+- 💡 I am currently learning **Java/SpringBoot and ReactJS**
       
 - ✉️ Reach me on ** mateusgarcia.dev@gmail.com **
       
@@ -24,6 +24,8 @@
 <p align="center">
           
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
+<img src="	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
