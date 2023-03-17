@@ -20,8 +20,9 @@
      
 #### 🚀 Skills
       
- ##### Front-End    
+    
 <p align="center">
+    ##### Front-End 
           
 
 <img src="https://img.shields.io/badge/javascript-f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
@@ -32,8 +33,9 @@
       
 <br>
 
- ##### Back-End  
+  
 <p align="center">
+    ##### Back-End 
           
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
