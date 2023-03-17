@@ -20,7 +20,7 @@
      
 #### 🚀 Skills
       
-##### Front-End    
+ ##### Front-End    
 <p align="center">
           
 
@@ -31,7 +31,8 @@
 </p>
       
 <br>
-##### Back-End  
+
+ ##### Back-End  
 <p align="center">
           
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
