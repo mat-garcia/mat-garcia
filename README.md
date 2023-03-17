@@ -34,7 +34,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 </p>
-##### Mobile
+
+ ##### Mobile
 <p>
  <img src="https://img.shields.io/badge/reactnative-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>  
 </p>
