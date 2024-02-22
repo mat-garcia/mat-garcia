@@ -1,5 +1,4 @@
 <h2>
-    <p align="center" style="margin-bottom: 1px;"><img align="center" src="rising.gif" height="160px"></p>
     <p align="center" style="margin-top: 0px;"> <img  src="https://img.shields.io/badge/-Hello%20World!-purple?style=for-the-badge" width="160"/></p>
 </h2>
       
@@ -12,7 +11,7 @@
       
  ​👨‍💻 I am currently working on **Concept Prime**.
       
- 🎓 Degree in **Systems Analysis and Development**.
+ 🎓 graduated in **Systems Analysis and Development**.
 
  💡 I am currently learning **Java/SpringBoot and ReactJS**
 
