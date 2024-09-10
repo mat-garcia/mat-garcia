@@ -13,7 +13,7 @@
       
  🎓 graduated in **Systems Analysis and Development**.
 
- 💡 I am currently learning: <br> **Backend with Java/SpringBoot** <br> **and** <br> **Game Engine development with C++ / OpenGL**
+ 💡 I am currently learning: <br> **software architecture** <br>
 
 <div align="center">
       
