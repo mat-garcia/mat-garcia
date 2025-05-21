@@ -2,7 +2,7 @@
     <p align="center" style="margin-top: 0px;"> <img  src="https://img.shields.io/badge/-Hello%20World!-purple?style=for-the-badge" width="160"/></p>
 </h2>
       
-# Hi there, I'm Mat Garcia 👋
+# I'm Mat Garcia 👋
 
 **Software Engineer | Specialist in Java, Spring Boot, React.js (Next.js), and AI Integration**  
 Currently at **iBrowse | Prodabel (Gov BH)**
