@@ -2,31 +2,45 @@
     <p align="center" style="margin-top: 0px;"> <img  src="https://img.shields.io/badge/-Hello%20World!-purple?style=for-the-badge" width="160"/></p>
 </h2>
       
-<h3 align="center" style=" margin-bottom: 0px;"> I'm Mateus Garcia </h3>
-<h4 align="center" style=" margin-top: 0px;"> and i am a FullStack Developer .</h4>
-      
-<br>
+# Hi there, I'm Mat Garcia 👋
 
-<div align="center">
-      
- ​👨‍💻 I am currently working on **Concept Prime**.
-      
- 🎓 graduated in **Systems Analysis and Development**.
+**Software Engineer | Specialist in Java, Spring Boot, React.js (Next.js), and AI Integration**  
+Currently at **iBrowse | Prodabel (Gov BH)**
 
- 💡 I am currently learning: <br> **software architecture** <br>
+---
 
-<div align="center">
-      
-#### ⚡ Acces My portfolio: 
-<p>
-    <a  href="https://mateusgarcia-dev.vercel.app/"><img src="https://img.shields.io/badge/mateusgarcia.dev-3C3C3D?style=for-the-badge&logo=vercel&logoColor=white"        height="28" width="180"/> </a>
-</p>
-</div>
-      
-<br>
+### 🚀 About Me
+
+I'm a passionate software engineer focused on building robust, scalable, and innovative solutions with a strong foundation in Java, Spring Boot, React.js, and modern frontend tools like TailwindCSS and shadcn. I have deep experience architecting and developing high-impact systems, especially in B2B, Hospitality and government sectors.
+
+---
 
 
-#### 🚀 Skills
+### 🌟 Notable Projects
+
+**B2B Booking Integration API**  
+- I led the architected and developed a Spring Boot-based integration API for hotel reservations  
+- Deployed in production across 15+ hotels  
+- Resulted in a 20%+ increase in company revenue  
+- Unified multiple reservation systems, streamlining business processes
+
+**AI Innovation for Gov BH**  
+- I participated in the to integrate government geolocation services with LLMs  
+- Utilizing MCP to make data analysis and access easier for all users of BH government services  
+- Focused on democratizing data-driven decision-making through AI
+
+---
+
+### 📚 Focus Areas
+
+- Software architecture (Java, Spring Boot)
+- AI integration in real-world applications
+- Scalability and high availability for microservices
+- Cloud platforms: AWS, OpenShift, and more
+
+---
+
+### 🛠️ Tech Stack
  
  
  <div align="left">
@@ -83,16 +97,37 @@
     </p>
 </div>
 
-<div align="center">
+> "Innovation thrives at the intersection of technology, data, and creativity."
+
+<!--      
+#### ⚡ Acces My portfolio: 
+<p>
+    <a  href="https://mateusgarcia-dev.vercel.app/"><img src="https://img.shields.io/badge/mateusgarcia.dev-3C3C3D?style=for-the-badge&logo=vercel&logoColor=white"        height="28" width="180"/> </a>
+</p>
+</div>
+      
+<br>
+-->
+
+
+
       
   #### ⭐ Stats and Languages
   
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-garcia&theme=dracula&layout=compact" alt="Statistics" height="200" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-garcia&theme=dracula&layout=compact&hide=c,c%2B%2B" alt="Statistics" height="200" /> 
     <img src="https://github-readme-stats.vercel.app/api?username=mat-garcia&theme=dracula&layout=compact" alt="Languages" height="200"   />
 </p>
 
 </div>
+<p align="center">
+    
+[![Atividade de mat-garcia](https://github-readme-activity-graph.vercel.app/graph?username=mat-garcia&theme=dracula&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--[![Streak de mat-garcia](https://streak-stats.demolab.com?user=mat-garcia&theme=dracula&count_private=true)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
+</p>
+
       
 <br>
    
